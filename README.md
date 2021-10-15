@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishabhDev2700
-- 👀 I’m interested in java, Spring framework,Python, Django and flutter
+- 👀 I’m interested in java, Spring framework,Python and Django
 - 🌱 I’m currently learning Django Framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some small web projects
 - 📫 How to reach me : IG: rishabh_bahukhandi and mail: rishavkumar2700@gmail.com
 
 <!---
