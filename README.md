@@ -13,6 +13,7 @@
   7) Tailwind
   8) Javascript (ES6)
   9) ReactJs/SolidJs
+  10) Golang
 <!---
 rishabhDev2700/rishabhDev2700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
